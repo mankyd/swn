@@ -5,18 +5,15 @@
 
 Name          | Score | Prestige | Infamy | Council | Hoi Polloi | POI | Win Count
 --------------|-------|----------|--------|---------|------------|-----|----------
-Brian Keith   | 59 | 5 | 8  | ✅ | ✅ |   | 1
-Dave Mankoff  | 18 | 3 | 32 |   | ✅ | 🔴 | 0
-Kevin Safford | 48 | 4 | 1  | ✅ |   |   | 0
-Julian Eskin  | 8  | 4 | 0  | ✅ |   |   | 4
-Chris Bett    | 30 | 1 | 0  |   | ✅ |   | 2
-
-
-
+Brian Keith   | 59    | 5        | 8      | ✅       | ✅          |    | 1
+Dave Mankoff  | 18    | 3        | 32     |         | ✅          | 🔴  | 0
+Kevin Safford | 48    | 4        | 1      | ✅       |            |    | 0
+Julian Eskin  | 8     | 4        | 0      | ✅       |            |    | 4
+Chris Bett    | 30    | 1        | 0      |         | ✅          |    | 2
 
 ## ACTIVE QUESTS
 
-**Quest #1. **[Created by Julian, August 1, 2019, ~11am.]
+**Quest #1.** [Created by Julian, August 1, 2019, ~11am.]
 
 The first player to <span style="text-decoration:underline;">propose a rule that passes true unanimously</span> before <span style="text-decoration:underline;">a proposal passes true unanimously</span> completes this quest <span style="text-decoration:underline;">may have their next vote on a rule proposed by another player count double</span> (cannot be used on your own proposal) and their Quest Count increases by 1. The second player to do so <span style="text-decoration:underline;">gains 1 prestige</span>. This quest has fuse length <span style="text-decoration:underline;">30</span>. Remove this quest from the active quest list when the fuse expires or the deadline occurs. Death Knell: If no players have completed this quest, all players suffer the following penalty: <span style="text-decoration:underline;">Reduce win count by 1</span>.
 
@@ -33,29 +30,21 @@ The first player to <span style="text-decoration:underline;">assume all availabl
 
 ## INFAMOUS LIST
 
-
-
 1. Maximilien Robespierre (194)
 2. Osama bin Laden (115)
 3. Jack the Ripper (80)[^2]
-
-
 4. Henry “Billy the Kid” McCarty (50)
 5. **Dave Mankoff** (32)
 6. **Brian Keith** (8)
 7. Sir Francis Drake but from the perspective of the British (4)
 8. **Kevin Safford** (1)
 9. **Julian Eskin** (0), **Chris Bett** (0), and Horatio Alger (0)[^3]
-
-
 10. Mahatma Gandhi (-1)
 
 _Descending order, "players" in bold, last updated 11 July, 2019_
 
 
 ## EVENT CARD LIST
-
-
 
 1. No effect. _"Maybe next time."_
 2. No effect. _"At least no-one was hurt."_
@@ -128,10 +117,7 @@ Rule Number | Fuse Length
 Quest #1    | 30
 Quest #2    | 38
 
-
-
 ## ARTIFACTS
-
 
 Artifact               | Owner
 ---------------------- |------------
@@ -182,8 +168,6 @@ A player always has the option to forfeit the game rather than continue to play 
 
 A rule change is any of the following:
 
-
-
 1. the enactment, repeal, or amendment of a mutable rule or a super-mutable rule
 2. the transmutation of an immutable rule into a mutable rule, a mutable rule into a super-mutable rule, or vice versa
 
@@ -218,9 +202,6 @@ If any negative effects ought to have affected a player during their turn, those
 #### 398
 
 One player's turn consists of four parts, in this order:
-
-
-
 1. “Pre-Proposal Phase,” involving any time that transpires before a proposal is put forward.
 2. “Voting Phase,” involving proposing one “Rule Change” and having it voted on.
 3. “Score Phase,” in which the current player throws or simulates throwing a number of dice once and adds the result to their score. The number and type of dice are defined by the STRENGTH TABLE based on that turn’s proposal. When throwing multiple dice, the result is either the highest or the lowest single value from one die, as defined by the STRENGTH TABLE. 
