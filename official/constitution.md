@@ -108,125 +108,25 @@ Notes:
 
 ## PROPOSAL STRENGTH TABLE
 
-
-<table>
-  <tr>
-   <td rowspan="2" ><strong>Strength</strong>
-   </td>
-   <td rowspan="2" colspan="2" ><strong>Max Words</strong>
-   </td>
-   <td rowspan="2" ><strong>Max No. Rules </strong>(Created, Amended, Superseded)
-   </td>
-   <td rowspan="2" ><strong>Points</strong>
-   </td>
-  </tr>
-  <tr>
-  </tr>
-  <tr>
-   <td>0
-   </td>
-   <td colspan="2" ><strong>any</strong>
-   </td>
-   <td><strong>any</strong>
-   </td>
-   <td>1
-   </td>
-  </tr>
-  <tr>
-   <td>1
-   </td>
-   <td colspan="2" ><strong>335</strong> (+60)
-   </td>
-   <td><strong>5</strong>
-   </td>
-   <td>2d6 (low)
-   </td>
-  </tr>
-  <tr>
-   <td>2
-   </td>
-   <td colspan="2" ><strong>210</strong> (+45)
-   </td>
-   <td><strong>4</strong>
-   </td>
-   <td>1d6
-   </td>
-  </tr>
-  <tr>
-   <td>3
-   </td>
-   <td colspan="2" ><strong>115</strong> (+30)
-   </td>
-   <td><strong>3</strong>
-   </td>
-   <td>2d6 (high)
-   </td>
-  </tr>
-  <tr>
-   <td>4
-   </td>
-   <td colspan="2" ><strong>50</strong> (+15)
-   </td>
-   <td><strong>2</strong>
-   </td>
-   <td>2d8 (high)
-   </td>
-  </tr>
-  <tr>
-   <td>5
-   </td>
-   <td colspan="2" ><strong>15</strong> (+0)
-   </td>
-   <td><strong>1</strong>
-   </td>
-   <td>2d10 (high)
-   </td>
-  </tr>
-  <tr>
-   <td>6+
-   </td>
-   <td colspan="2" ><strong>-1</strong> (+0)
-   </td>
-   <td><strong>1</strong>
-   </td>
-   <td>2d8 (high) +2
-   </td>
-  </tr>
-</table>
-
+Strength | Max Words     | Max No. Rules (Created, Amended, Superseded) | Points
+---------|---------------|----------------------------------------------|---------------
+0        | **any**       | **any**                                      | 1
+1        | **355** (+60) | **5**                                        | 2d6 (low)
+2        | **210** (+45) | **4**                                        | 1d6
+3        | **115** (+30) | **3**                                        | 2d6 (high)
+4        | **50** (+15)  | **2**                                        | 2d8 (high)
+5        | **15** (+0)   | **1**                                        | 2d10 (high)
+6        | **-1** (+0)   | **1**                                        | 2d8 (high) + 2
 
 
 ## FUSE TABLE
 
 Fuses last shortened: Midnight at the end of 8/5/19
 
-
-<table>
-  <tr>
-   <td><strong>Rule Number</strong>
-   </td>
-   <td><strong>Fuse Length</strong>
-   </td>
-  </tr>
-  <tr>
-   <td>Quest #1
-   </td>
-   <td>30
-   </td>
-  </tr>
-  <tr>
-   <td>Quest #2
-   </td>
-   <td>38
-   </td>
-  </tr>
-  <tr>
-   <td>
-   </td>
-   <td>
-   </td>
-  </tr>
-</table>
+Rule Number | Fuse Length
+------------|------------
+Quest #1    | 30
+Quest #2    | 38
 
 
 
@@ -254,20 +154,11 @@ The Pope (Rule 416) | None Yet       | 0
 
 The players in this game of Nomic, listed in turn-order are:
 
-
-    1. Brian Keith
-
-
-    2. Dave Mankoff
-
-
-    3. Kevin Safford
-
-
-    4. Julian Eskin
-
-
-    5. Chris Bett
+1. Brian Keith
+2. Dave Mankoff
+3. Kevin Safford
+4. Julian Eskin
+5. Chris Bett
 
 Players shall alternate in turn-order, taking one whole turn apiece. 
 
