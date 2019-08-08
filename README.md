@@ -1,0 +1,2 @@
+# swn
+Somewhat Weekly Nomic
